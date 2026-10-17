@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.calculator.CalculatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-14T10:40:38.264Z" hostname="ANIRUDH" time="0.035">
+  <properties/>
+  <testcase name="dispatches named operations" classname="com.example.calculator.CalculatorTest" time="0.018"/>
+  <testcase name="rejects division by zero" classname="com.example.calculator.CalculatorTest" time="0.003"/>
+  <testcase name="adds positive numbers" classname="com.example.calculator.CalculatorTest" time="0.0"/>
+  <testcase name="rejects unsupported operators" classname="com.example.calculator.CalculatorTest" time="0.002"/>
+  <testcase name="dispatches symbol operations" classname="com.example.calculator.CalculatorTest" time="0.0"/>
+  <testcase name="subtracts numbers" classname="com.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="multiplies decimal numbers" classname="com.example.calculator.CalculatorTest" time="0.001"/>
+  <testcase name="divides numbers" classname="com.example.calculator.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
